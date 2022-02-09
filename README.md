@@ -6,7 +6,19 @@
 [![Bash Shell](https://badges.frapsoft.com/bash/v1/bash.png?v=103)](https://github.com/dev-frog?tab=repositories)
 [![MIT Licence](https://badges.frapsoft.com/os/mit/mit.png?v=103)](https://github.com/dev-frog?tab=repositories)
 
-[![froghunter](https://github.com/dev-frog/)](https://dev-frog.github.io)
+<!-- [![froghunter](https://github.com/dev-frog/)](https://dev-frog.github.io) -->
+
+```ascii
+                                 __                 _                 _            
+                                / _|_ __ ___   __ _| |__  _   _ _ __ | |_ ___ _ __ 
+                                | |_| '__/ _ \ / _` | '_ \| | | | '_ \| __/ _ \ '__|
+                                |  _| | | (_) | (_| | | | | |_| | | | | ||  __/ |   
+                                |_| |_|  \___/ \__, |_| |_|\__,_|_| |_|\__\___|_|   
+                                            |___/                                
+
+
+
+```
 
 <samp>
 
