@@ -1,3 +1,9 @@
+# Dev-Frog
+
+<p align="center">
+  <img src="https://github.com/dev-frog.png" alt="Dev-Frog" width="200" height="200">
+</p>
+
 <!-- all link -->
 <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.6.1/css/all.css" integrity="sha384-gfdkjb5BdAXd+lj+gudLWI+BXq4IuLW5IT+brZEZsLFm++aCMlF1V92rMkPaX4PP" crossorigin="anonymous">
 
@@ -7,6 +13,8 @@
 [![MIT Licence](https://badges.frapsoft.com/os/mit/mit.png?v=103)](https://github.com/dev-frog?tab=repositories)
 
 <!-- [![froghunter](https://github.com/dev-frog/)](https://dev-frog.github.io) -->
+
+
 
 ```ascii
      __                 _                 _            
@@ -22,14 +30,18 @@
 
 <samp>
 
-- A programmer who knows cybersecurity
+Greetings! I'm a programmer with a keen interest in cybersecurity. My name is minjurul haque, and I enjoy exploring the depths of the digital world, uncovering vulnerabilities, and fortifying systems against threats. My primary focus lies in CTF (Capture The Flag) challenges, Hack The Box (HTB), and TryHackMe (THM) platforms. I find great joy in developing malware and exploit techniques for various types of systems.
 
 - Interests : CTF / HTB / THM , Writing malware and exploit for diffrent types of systems.
 
-- twitter : <a href="https://twitter.com/minjurul">minjurul</a>
+## Connect with Me
 
-- Contact Me : <a href="mailto:froghunter.ctf@gmail.com">froghunter.ctf@gmail.com</a>
+You can find me on Twitter: <a href="https://twitter.com/minjurul">@minjurul</a>
 
+For any inquiries or collaborations, feel free to reach out to me via email: <a href="mailto:froghunter.ctf@gmail.com">froghunter.ctf@gmail.com</a>
+
+
+## Motto
 - Eat <i class="fas fa-utensils"></i> Sleep 😴 code 💻 Repeat
 
 ## Skills
