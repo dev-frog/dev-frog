@@ -30,9 +30,12 @@
 
 <samp>
 
-Greetings! I'm a programmer with a keen interest in cybersecurity. My name is minjurul haque, and I enjoy exploring the depths of the digital world, uncovering vulnerabilities, and fortifying systems against threats. My primary focus lies in CTF (Capture The Flag) challenges, Hack The Box (HTB), and TryHackMe (THM) platforms. I find great joy in developing malware and exploit techniques for various types of systems.
+<b>Greetings!</b> I'm a programmer with a keen interest in cybersecurity. My name is minjurul haque, and I enjoy exploring the depths of the digital world, uncovering vulnerabilities, and fortifying systems against threats. My primary focus lies in CTF (Capture The Flag) challenges, Hack The Box (HTB), and TryHackMe (THM) platforms. I find great joy in developing malware and exploit techniques for various types of systems.
 
-- Interests : CTF / HTB / THM , Writing malware and exploit for diffrent types of systems.
+## Interests : 
+
+- CTF (Capture The Flag).
+- Expoit Development.
 
 ## Connect with Me
 
