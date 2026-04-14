@@ -72,9 +72,9 @@ My goal is to combine **software engineering and cybersecurity knowledge** to bu
 
 # 📊 GitHub Stats
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://github-stats-extended.vercel.app/api?username=dev-frog&show_icons=true&theme=tokyonight" />
-</p>
+</p> -->
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=dev-frog&theme=tokyonight" />
