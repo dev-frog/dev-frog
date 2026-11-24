@@ -1,103 +1,35 @@
-# 🐸 Dev-Frog
+### Hi, I'm Minjurul
 
-<p align="center">
-  <img src="https://github.com/dev-frog.png" alt="Dev-Frog" width="200" height="200">
-</p>
+Senior Backend Engineer based in Kuala Lumpur, Malaysia. I've spent 5+ years building backend systems with **Node.js, TypeScript and AWS**: microservices, APIs and event-driven pipelines that stay fast under load.
 
-<p align="center">
-Backend Developer • Security Enthusiast • CTF Player
-</p>
+- Architected a microservices platform on **NestJS + RabbitMQ** and cut API response times from **450ms to 180ms** with Redis and PostgreSQL
+- Building **[FrogJS](https://github.com/dev-frog/frogJs)**, a JavaScript runtime written from scratch in C++17 on V8 and libuv
+- Security on the side: CTF player and **1st runner-up** in Bangladesh's national Cyber Security Challenge (2018)
 
-<p align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=dev-frog" />
-</p>
+#### Featured project
 
----
+| Project | Description | Stack |
+| --- | --- | --- |
+| [**FrogJS**](https://github.com/dev-frog/frogJs) | JavaScript runtime with an event loop, non-blocking I/O, TCP networking, file system APIs and CommonJS modules | C++17 · V8 · libuv |
 
-## 👋 Hello, I'm Md. Minjurul Haque
+#### Tech
 
-I'm a **Backend-Focused Full Stack Developer** and **Cybersecurity Enthusiast** who enjoys building secure systems and exploring how modern applications work internally.
+**Backend** &nbsp; Node.js · TypeScript · NestJS · Express · GraphQL · REST · WebSockets  
+**Data & messaging** &nbsp; PostgreSQL · MongoDB · DynamoDB · Redis · RabbitMQ · AWS SQS  
+**Infrastructure** &nbsp; AWS (Lambda, EC2, S3, Amplify) · Docker · Kubernetes · NGINX · GitHub Actions  
+**Testing** &nbsp; Jest · Mocha · Cypress
 
-My main expertise is in **backend development and system architecture**, particularly with **Node.js, TypeScript, APIs, and cloud infrastructure**.
+#### GitHub stats
 
-Alongside software engineering, I actively practice **ethical hacking and security research**, solving challenges on platforms like:
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./profile/stats-dark.svg">
+  <img alt="GitHub stats for dev-frog" src="./profile/stats-light.svg" height="170">
+</picture>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./profile/top-langs-dark.svg">
+  <img alt="Most used languages" src="./profile/top-langs-light.svg" height="170">
+</picture>
 
-- 🏴 **Capture The Flag (CTF)**
-- 🟩 **Hack The Box (HTB)**
-- 🟦 **TryHackMe (THM)**
+#### Connect
 
-These help me strengthen my knowledge in:
-
-- Web security
-- Exploitation techniques
-- Reverse engineering
-- Vulnerability analysis
-
-My goal is to combine **software engineering and cybersecurity knowledge** to build **secure, scalable, and reliable systems.**
-
----
-
-# 🚀 Tech Stack
-
-### Backend
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white)
-![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat&logo=nestjs&logoColor=white)
-![Express](https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white)
-
-### Frontend
-![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js)
-
-### Databases
-![MongoDB](https://img.shields.io/badge/MongoDB-4ea94b?style=flat&logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql)
-
-### DevOps & Tools
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-
----
-
-# 🔐 Security Interests
-
-- Web Application Security
-- Capture The Flag (CTF)
-- Exploit Development
-- Reverse Engineering
-- Secure Coding Practices
-
----
-
-# 📊 GitHub Stats
-
-<!-- <p align="center">
-  <img src="https://github-stats-extended.vercel.app/api?username=dev-frog&show_icons=true&theme=tokyonight" />
-</p> -->
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dev-frog&theme=tokyonight" />
-</p>
-
----
-
-# 🌍 Connect With Me
-
-🐦 Twitter  
-https://twitter.com/minjurul
-
-📧 Email  
-froghunter.ctf@gmail.com
-
-🟩 Hack The Box  
-https://app.hackthebox.com/profile/33943
-
-🟦 TryHackMe  
-https://tryhackme.com/p/Froghunter
-
----
-
-# 🧠 Motto
-
-**Eat 🍜 Sleep 😴 Code 💻 Repeat**
+[LinkedIn](https://www.linkedin.com/in/minjurulrahman/) · [X](https://x.com/minjurul) · [Email](mailto:m.minjurulhaque@gmail.com) · [Hack The Box](https://app.hackthebox.com/profile/33943) · [TryHackMe](https://tryhackme.com/p/Froghunter)
