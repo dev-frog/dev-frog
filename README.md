@@ -59,6 +59,10 @@ A JavaScript runtime written from scratch in **C++17** on **V8** and **libuv**: 
   </picture>
 </p>
 
+<p align="center">
+  <a href="https://git.io/streak-stats"><img alt="GitHub Streak" src="https://streak-stats.demolab.com?user=dev-frog&theme=blood-dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D"></a>
+</p>
+
 ---
 
 <p align="center"><sub>🐸 ribbit · thanks for stopping by</sub></p>
